@@ -9,4 +9,4 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 -> open your browser to http://localhost:3000/
 
-# If your port is used in the moment change it to another one for example 5050 or 3030
+ If your port is used in the moment change it to another one for example 5050 or 3030
